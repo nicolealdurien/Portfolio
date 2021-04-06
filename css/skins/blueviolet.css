@@ -1,7 +1,7 @@
 /* =================================================================== */
 /* Blueviolet #8a2be2
 ====================================================================== */
-
+.nicole-info-link,
 .page-title h2 span:first-child::before,
 .page-title h2 span:nth-child(2),
 .divider .fa,
@@ -13,7 +13,7 @@
 body.blog .meta i,
 body.blog .meta a,
 .widget.recent-posts .entry-title a:hover,
-.sidebar ul.nav-tabs li.active a, 
+.sidebar ul.nav-tabs li.active a,
 .sidebar ul.nav-tabs li:hover a,
 body.blog .btn.back-homepage,
 body.blog article h4:hover,
