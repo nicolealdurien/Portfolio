@@ -40,7 +40,10 @@ Version: 1.0
 				- Tags Widget
 	- Responsive Design Styles
 -------------------------------------------------------------------*/
-
+/* [ CUSTOM ] */
+.white-info-link {
+  color: white;
+}
 
 /* [ GENERAL ] */
 
@@ -1340,7 +1343,7 @@ div.bl-panel-items a.btn {
 .bl-main>section:nth-child(4).bl-expand .contact .leftside {
   background: #f2f2f2;
   color: #656c6d;
-  padding: 24px;
+  padding: 34px;
   font-size: 16px;
   border: 1px solid #ddd;
 }
