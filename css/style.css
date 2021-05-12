@@ -1902,6 +1902,12 @@ body.blog .pagination li a i {
 
 
 /*================================================== */
+@media (max-width:1535px) {
+  .bl-main>section.topleft .bl-box .ah-headline.clip .my-name {
+  font-size: 50px;
+  margin: 20px 0;
+}
+
 
 @media (max-width:1399px) {
   .page-title h2 {
